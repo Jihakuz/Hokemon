@@ -1,0 +1,5 @@
+{
+    "fire": "water",
+    "water": "grass",
+    "grass": "fire"
+}

@@ -1,0 +1,63 @@
+{
+    "1": { 
+        "fire": {
+            "ember": [40, 1],
+            "flame charge": [50, 1],
+            "flame wheel": [60, 1],
+            "incinerate": [60, 1]
+        },
+        "grass": {
+            "vine whip": [45, 1],
+            "razor leaf": [55, 0.95],
+            "needle arm": [60, 1],
+            "leaf tornado": [65, 0.9]
+        },
+        "water": {
+            "brine": [65, 1],
+            "aqua jet": [45, 1],
+            "water pulse": [60, 1],
+            "water gun": [40, 1]
+        }
+    },
+
+    "2": { 
+        "fire": {
+            "blaze kick": [85, 0.9],
+            "flame blast": [110, 0.85],
+            "flamethrower": [90, 1],
+            "fusion flare": [100, 1]
+        },
+        "grass": {
+            "energy ball": [90, 1],
+            "petal blaze": [90, 1],
+            "leaf blade": [90, 1],
+            "power whip": [120, 0.85]
+        },
+        "water": {
+            "aqua tail": [90, 0.9],
+            "bouncy bubble": [90, 1],
+            "hydro pump": [110, 0.8],
+            "crabhammer": [100, 0.9]
+        },
+    "3": { 
+        "fire": {
+            "blast burn": [150, 0.9],
+            "blue flare": [130, 0.85],
+            "flare blitz": [130, 1],
+            "mind blown": [150, 1]
+        },
+        "grass": {
+            "frenzy plant": [150, 0.95],
+            "leaf storm": [130, 1],
+            "petal dance": [140, 1],
+            "solar blade": [130, 0.9]
+        },
+        "water": {
+            "hydro cannon": [150, 0.9],
+            "origin pulse": [130, 0.85],
+            "stream eruption": [140, 0.95],
+            "water spout": [150, 1]
+        }   
+        }
+    }
+}
